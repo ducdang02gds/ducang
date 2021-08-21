@@ -1,0 +1,28 @@
+img {
+    
+    width: 100%;
+
+}
+h1{
+    font-family: Oldtown, fantasy;
+    font-size: 60px;
+   background-image: url("https://anhdep123.com/wp-content/uploads/2020/11/hinh-anh-background.jpeg");
+   color: rgb(18, 108, 243);
+   background-size: cover ;
+   text-align: center;
+}
+h2{
+    font-family: Comic Sans, Comic Sans MS, cursive;
+}
+.achievements li{
+    font-style: italic;
+}
+.achievements>p,.process>p{
+    font-size: 20px;
+}
+body{
+    margin: 30px;
+}
+
+
+
